@@ -1,0 +1,24 @@
+{
+  "name": "react-native-pure-tabbar",
+  "version": "0.0.1",
+  "description": "react native tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musicode/react-native-pure-tabbar.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "tabs"
+  ],
+  "author": "musicode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musicode/react-native-pure-tabbar/issues"
+  },
+  "homepage": "https://github.com/musicode/react-native-pure-tabbar#readme"
+}
