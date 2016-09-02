@@ -133,7 +133,7 @@ class TabBarItem extends Component {
         style={style ? [ styles.tabBarItem, style ] : styles.tabBarItem}
         onPress={onPress}
       >
-        <View>
+        <View style={styles.tabBarItemWrapper}>
           {iconElement}
           {titleElement}
           {badgeElement}

@@ -7,8 +7,8 @@ const borderWidth = 1 / PixelRatio.get()
 
 const badge = {
   position: 'absolute',
-  right: -10,
-  bottom: 24,
+  left: 22,
+  top: -2,
   backgroundColor: '#f43531',
   borderRadius: 10,
 }
@@ -25,6 +25,9 @@ export default StyleSheet.create({
   tabBarItem: {
     flex: 1,
     justifyContent: 'center',
+    alignItems: 'center',
+  },
+  tabBarItemWrapper: {
     alignItems: 'center',
   },
   titleText: {
